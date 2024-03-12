@@ -1,0 +1,5 @@
+{
+  "name": "@jacobo/cli",
+  "version": "0.0.1",
+  "exports": "./cli.ts"
+}
